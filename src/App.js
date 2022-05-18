@@ -17,7 +17,7 @@ const items = [
 ]
 
 const App = () => {
-  return <div><Accordion items={items} /></div>
+  return <div><br /><Accordion items={items} /></div>
 };
 
 export default App;
